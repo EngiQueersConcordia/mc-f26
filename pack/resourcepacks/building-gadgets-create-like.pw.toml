@@ -1,0 +1,13 @@
+name = "Building Gadgets Create like"
+filename = "v2_REFRESH_Building_Gadgets_Create_Like.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c345a42d181c10c2958390f1d6cdf14f0cfb083"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4974380
+project-id = 621286

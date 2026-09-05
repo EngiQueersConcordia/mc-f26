@@ -1,0 +1,86 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "4327ca177fdbd9cfc0c2f442bec68899b6c8e8eb46f0e6b04548178c244b6a84"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "c6db833d0e18e389bba8ce929f3caee7f45215c102ac85c481ca8c721008f8b3"
+metafile = true
+
+[[files]]
+file = "mods/boat-item-view-forge.pw.toml"
+hash = "f7665e519c8a6c72a98dba2dfe4f31d1a0b1e39ccb9fbf41d2b5f40a27e26108"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "49f9d94df22724949d2ce1ae70b73461dfe7d92ce6ad6ceae9739cef0b34a089"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "ac2fd14944240e2c6726a32e0dd4e58045dc140cb51203dc106ff1cefd8616a0"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "badd7f23d1df8151237d0afbc98f2e1fc83346237b0d407fc10215b4217c1cc4"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "945d7bad157b6cb2ae0d4becaa95aa37cac7d4c34a62c3581edf9f1dd53cd757"
+metafile = true
+
+[[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "8461b7344559646b5051a6d812e2cd4d43e62c8c817d17f0b2552f65306f43d4"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "55d77d596c2d805f28b47ea53725ccaa220d2857177cad3909e48d8c12b2a2cb"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "2720aee58db6299559f89ea9dc8b1d573b8324f2b4af1e594c5239607585487b"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "67f25c4e667e3aa0264bf738ad10a342db234ac1396f8397baa5d64c35d83481"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "b45a8099d4302af4707f6db58779dbe39898d186e999366e64f16653398a9d63"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "af0aa7613fe7aeee381714b93d38b392583462ae9737ad1d12c1b18d159f0dc3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/building-gadgets-create-like.pw.toml"
+hash = "faa211a47a29fb940bfe2d1ccdfc3869f48b265491320e2baa346066dc29ceea"
+metafile = true
