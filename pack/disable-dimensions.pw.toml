@@ -1,0 +1,13 @@
+name = "Disable Dimensions"
+filename = "disable-dimensions-0.10.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b11f37c10158802f2506fe09178ac9007801578"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8781606
+project-id = 1370437

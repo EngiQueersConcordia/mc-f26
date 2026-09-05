@@ -1,0 +1,13 @@
+name = "Create: Copycats+"
+filename = "copycats-3.0.8+mc.1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee0cddd7053622aa0a6964e7367bd69795273e7d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8714287
+project-id = 968398

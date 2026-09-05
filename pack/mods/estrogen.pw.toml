@@ -1,0 +1,13 @@
+name = "Estrogen"
+filename = "estrogen-6.0.8+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6971caf2c0029204c9bb7bd69a025c2d9138d9ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8801851
+project-id = 850410

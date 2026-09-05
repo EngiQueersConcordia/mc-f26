@@ -1,0 +1,13 @@
+name = "Another Overworld"
+filename = "another_overworld-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a026378ffe0a7f12aad57ef8448ff66c6e69dda9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8313057
+project-id = 842515
