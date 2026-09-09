@@ -1,0 +1,13 @@
+name = "CreateCustomCommands for Neoforge"
+filename = "createcustomcommand-1.21.1-v1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "907f79717d467cffc3f6521658e3c889e36a7494"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8156260
+project-id = 1555971

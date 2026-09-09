@@ -1,0 +1,13 @@
+name = "DimWorldBorder"
+filename = "dimworldborder-1.21.1-1.1.1-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fda25f75c293c204de0161b38853ec730a846726"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8488144
+project-id = 1305645
