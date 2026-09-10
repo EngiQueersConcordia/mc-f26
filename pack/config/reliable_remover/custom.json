@@ -1,0 +1,11 @@
+[
+    {
+        "action": "remove",
+        "items": [
+            "create:schematicannon",
+            "create:schematic_table",
+            "create:empty_schematic",
+            "create:schematic_and_quill"
+        ]
+    }
+]
