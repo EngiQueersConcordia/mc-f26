@@ -78,7 +78,7 @@ hash = "c7386c2e095faf8079add2e2046da0f6e2576069e9997bba550c438ba671b0f9"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "3903273d25fe990e9bf9d424507171b065faf2eed4bdf2d08de8d6061535e116"
+hash = "269ec9f0190582d0b95df70154286a0985900b55973ce360575832e9562a1b98"
 
 [[files]]
 file = "config/biomesize.json"
@@ -1816,18 +1816,6 @@ metafile = true
 file = "resourcepacks/building-gadgets-create-like.pw.toml"
 hash = "faa211a47a29fb940bfe2d1ccdfc3869f48b265491320e2baa346066dc29ceea"
 metafile = true
-
-[[files]]
-file = "server_extras/mods/CraterLib-Neoforge-1.21-3.1.2.jar"
-hash = "2625398ddeb3ad6d9b16fd85f0f72f6a3bc4e58755966ff0085b8947c9bc6ad0"
-
-[[files]]
-file = "server_extras/mods/ProperProxyProtocol-1_21_1-neoforge-1.1.0.jar"
-hash = "8e0a66115dbfaaa3171150f039b48967c52c7c864d83a0a2a33d7dfd024fc339"
-
-[[files]]
-file = "server_extras/mods/SimpleDiscordLink-Universal-3.4.4.jar"
-hash = "6b098dad880b97bc1a10433e49e14076009a203c5cba72183ba505d85d9ce334"
 
 [[files]]
 file = "servers.dat"
