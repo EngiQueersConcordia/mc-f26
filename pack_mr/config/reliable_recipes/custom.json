@@ -1,0 +1,28 @@
+[
+  {
+    "action": "remove_recipe",
+    "id": [
+      "createthrusters:bi_directional_gearshift",
+      "another_overworld:portal",
+      "create:crafting/schematics/schematicannon",
+      "create:crafting/schematics/schematic_table",
+      "create:crafting/schematics/empty_schematic",
+      "create:crafting/schematics/schematic_and_quill"
+    ],
+    "type": "minecraft:crafting_shaped"
+  },
+  {
+    "action": "remove_recipe",
+    "id": [
+      "createfood:minecraft/crafting/shredded_beetroot_from_crafting"
+    ],
+    "type": "minecraft:crafting_shapeless"
+  },
+  {
+    "action": "remove_recipe",
+    "id": [
+      "create_dragons_plus:dye_fluid_coloring/minecraft/light_blue/create/crafing/schematics/empty_schematic_as_coloring",
+      "create:crafing/schematics/empty_schematic_as_coloring"
+    ]
+  }
+]

@@ -1,3 +1,7 @@
+/*.zip
+/*.mrpack
 /pack/*.zip
 /pack/*.mrpack
+/pack_mr/*.zip
+/pack_mr/*.mrpack
 /server_extras/

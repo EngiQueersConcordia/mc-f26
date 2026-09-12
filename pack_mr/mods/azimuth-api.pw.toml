@@ -1,0 +1,13 @@
+name = "Azimuth API"
+filename = "azimuth-1.4.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RpH8tmT1/versions/82WgkpfK/azimuth-1.4.8.jar"
+hash-format = "sha1"
+hash = "329b649c23a84dcbcbc2172df38a5d87afe94cf1"
+
+[update]
+[update.modrinth]
+mod-id = "RpH8tmT1"
+version = "82WgkpfK"

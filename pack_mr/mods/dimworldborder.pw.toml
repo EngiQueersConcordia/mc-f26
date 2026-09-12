@@ -1,0 +1,13 @@
+name = "DimWorldBorder"
+filename = "dimworldborder-1.21.1-1.1.1-universal.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/KNfZi3IU/versions/gfbd1zeB/dimworldborder-1.21.1-1.1.1-universal.jar"
+hash-format = "sha1"
+hash = "fda25f75c293c204de0161b38853ec730a846726"
+
+[update]
+[update.modrinth]
+mod-id = "KNfZi3IU"
+version = "gfbd1zeB"

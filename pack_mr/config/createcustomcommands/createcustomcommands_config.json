@@ -1,0 +1,128 @@
+{
+  "mining": {
+    "permission": 0,
+    "notify": "no",
+    "command1": "execute in another_overworld:another_overworld run spreadplayers 0 0 0 15000 false @p"
+  },
+  "survival": {
+    "permission": 0,
+    "notify": "no",
+    "command1": "gamemode survival @p"
+  },
+  "creative": {
+    "permission": 0,
+    "notify": "no",
+    "command1": "gamemode creative @p"
+  },
+  "spawn": {
+    "permission": 0,
+    "notify": "no",
+    "command1": "execute in minecraft:overworld run spreadplayers 0 0 0 5 false @p"
+  },
+  "__comment": [
+    "This is config section for CreateCustomCommand mod",
+    "The key is the alias for each command, change it to match your desire",
+    "Second line is permission for player who type this comamnd",
+    "Third line is notify, it's command feedback",
+    "You can add more commands in each key section, as long as it start with 'commandx', the x is the number",
+    {
+      "key1": {
+        "permission": "4",
+        "notify": "yes",
+        "command1": "say Command key1 activated",
+        "command2": "say Command key1 command2",
+        "command3": "say Command key1 command3",
+        "command4": "say Command key1 command4"
+      },
+      "g0": {
+        "permission": "4",
+        "notify": "yes",
+        "command1": "gamemode survival"
+      },
+      "g1": {
+        "permission": "4",
+        "notify": "no",
+        "command1": "gamemode creative"
+      },
+      "g2": {
+        "permission": "4",
+        "notify": "no",
+        "command1": "gamemode adventure"
+      },
+      "g3": {
+        "permission": "4",
+        "notify": "no",
+        "command1": "gamemode spectator"
+      },
+      "d0": {
+        "permission": "4",
+        "notify": "no",
+        "command1": "difficulty peaceful"
+      },
+      "d1": {
+        "permission": "4",
+        "notify": "yes",
+        "command1": "difficulty easy"
+      },
+      "d2": {
+        "permission": "4",
+        "notify": "yes",
+        "command1": "difficulty normal"
+      },
+      "d3": {
+        "permission": "4",
+        "notify": "yes",
+        "command1": "difficulty hard"
+      },
+      "d": {
+        "permission": "4",
+        "notify": "yes",
+        "command1": "time set day"
+      },
+      "n": {
+        "permission": "4",
+        "notify": "yes",
+        "command1": "time set night"
+      },
+      "k": {
+        "permission": "4",
+        "notify": "yes",
+        "command1": "kill @e[type=!player]"
+      },
+      "ki": {
+        "permission": "4",
+        "notify": "no",
+        "command1": "kill @e[type=item]"
+      },
+      "km": {
+        "permission": "4",
+        "notify": "no",
+        "command1": "kill @e[type=!player,type=!item]"
+      },
+      "wea": {
+        "permission": "4",
+        "notify": "yes",
+        "command1": "weather clear"
+      },
+      "ccccolortext": {
+        "permission": "0",
+        "notify": "yes",
+        "notifystring": "&6[&1Create &2Custom &3Command&6] &l&fColor &atext",
+        "command1": "say just say command"
+      },
+      "ccccolortext1": {
+        "permission": "0",
+        "notify": "yes",
+        "notifystring": "&9Don&8t&7 messing &l&6 up &5 &l colors &4like &&3&lthis",
+        "command1": "say just say command"
+      },
+      "heal": {
+        "permission": "4",
+        "notify": "no",
+        "notifystring": "",
+        "command1": "effect give @p minecraft:instant_health 1 255 false",
+        "command2": "effect give @p minecraft:saturation 1 255 false"
+      }
+    }
+  ]
+}

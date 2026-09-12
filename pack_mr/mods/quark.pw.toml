@@ -1,0 +1,13 @@
+name = "Quark"
+filename = "Quark-4.1-482.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qnQsVE2z/versions/yvp3Jbmk/Quark-4.1-482.jar"
+hash-format = "sha1"
+hash = "f73c3008321a9fb2da1151be9b49f0dfd006b6b5"
+
+[update]
+[update.modrinth]
+mod-id = "qnQsVE2z"
+version = "yvp3Jbmk"

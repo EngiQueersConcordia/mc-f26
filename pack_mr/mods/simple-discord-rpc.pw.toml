@@ -1,0 +1,13 @@
+name = "Simple Discord RPC"
+filename = "SimpleRPC-4.1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ObXSoyrn/versions/g6OmXHMq/SimpleRPC-4.1.4.jar"
+hash-format = "sha1"
+hash = "fe7e47214681cd724c4b8b346bb0aa11bea4e9c7"
+
+[update]
+[update.modrinth]
+mod-id = "ObXSoyrn"
+version = "g6OmXHMq"

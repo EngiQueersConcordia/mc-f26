@@ -1,0 +1,13 @@
+name = "Redirected"
+filename = "redirected-neoforge-1.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hhnR8xqU/versions/B9DLRbbX/redirected-neoforge-1.0.0-1.21.1.jar"
+hash-format = "sha1"
+hash = "2704eeefedf52edc30d68c84e2ee0ccf4eea6da0"
+
+[update]
+[update.modrinth]
+mod-id = "hhnR8xqU"
+version = "B9DLRbbX"

@@ -1,0 +1,13 @@
+name = "EngiQueers Concordia Fall 2026"
+author = "VP IT"
+version = "1.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0aca7a22e35024863cff0203d82b1220bfe2ae1454c9a2c7036fff15cf41f4b1"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.249"

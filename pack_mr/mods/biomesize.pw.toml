@@ -1,0 +1,13 @@
+name = "Biome Sizes"
+filename = "biomesize-1.21.1-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "530fc16644ed620c6aaa7330bdbd5f1c1fb308af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7541882
+project-id = 775502

@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Claims"
+filename = "aeroclaims-0.9.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CwZ8q37q/versions/uiaf6a6u/aeroclaims-0.9.3.jar"
+hash-format = "sha1"
+hash = "49375d2a522ab2a02cf1be68e33b5f8abe5006ea"
+
+[update]
+[update.modrinth]
+mod-id = "CwZ8q37q"
+version = "uiaf6a6u"

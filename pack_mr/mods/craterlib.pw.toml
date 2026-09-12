@@ -1,0 +1,13 @@
+name = "CraterLib"
+filename = "CraterLib-Neoforge-1.21-3.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/BaPsTnt7/CraterLib-Neoforge-1.21-3.1.2.jar"
+hash-format = "sha1"
+hash = "b1146bec9b6ee6acd07d41d2666beffd1805cc19"
+
+[update]
+[update.modrinth]
+mod-id = "Nn8Wasaq"
+version = "BaPsTnt7"

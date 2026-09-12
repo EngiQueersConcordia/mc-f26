@@ -1,0 +1,13 @@
+name = "Create: Easy Stone Generators"
+filename = "create_generators-1.2.5-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aeW9oim1/versions/V6LRJNSI/create_generators-1.2.5-neoforge-1.21.1.jar"
+hash-format = "sha1"
+hash = "8aa74f352530af34cd5e2d88f27349bb828fbe20"
+
+[update]
+[update.modrinth]
+mod-id = "aeW9oim1"
+version = "V6LRJNSI"

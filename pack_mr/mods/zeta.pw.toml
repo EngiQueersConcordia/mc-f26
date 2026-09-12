@@ -1,0 +1,13 @@
+name = "Zeta"
+filename = "Zeta-1.1-40.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MVARlG2f/versions/9GjNW2Gf/Zeta-1.1-40.jar"
+hash-format = "sha1"
+hash = "72f6efe421cfc0547c774ae8241d727b7d996754"
+
+[update]
+[update.modrinth]
+mod-id = "MVARlG2f"
+version = "9GjNW2Gf"
