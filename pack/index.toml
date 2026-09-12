@@ -1128,6 +1128,11 @@ hash = "55fe1f1a0b72abf4b697b3e0d8f5449e590bb519d26a29e6eeac049161003a34"
 metafile = true
 
 [[files]]
+file = "mods/biomesize.pw.toml"
+hash = "f2707463a84b3da22e3b0bb89f702f5df944b9da49bd23e701982883d65a9977"
+metafile = true
+
+[[files]]
 file = "mods/boat-item-view-forge.pw.toml"
 hash = "c9bddfd011a93a6ab2fc5fd9dea8ce1bf27275a6cf1ff50fe9562fdec9f2962e"
 metafile = true
@@ -1150,6 +1155,11 @@ metafile = true
 [[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "98250d952145b18c452883997e7e675d445bfce33e9afb35bf372040c429a179"
 metafile = true
 
 [[files]]
@@ -1798,6 +1808,11 @@ hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
 metafile = true
 
 [[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "dcbf1c62b1a3edb8bdf62e1b60605c7ec079902b37edd570ed295f01cee5421a"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "03b30d68893aff0507d36044ab3b43e586f4412274b5de0abe193b9f4a754905"
 metafile = true
@@ -1821,3 +1836,15 @@ metafile = true
 file = "resourcepacks/building-gadgets-create-like.pw.toml"
 hash = "faa211a47a29fb940bfe2d1ccdfc3869f48b265491320e2baa346066dc29ceea"
 metafile = true
+
+[[files]]
+file = "server_extras/mods/CraterLib-Neoforge-1.21-3.1.2.jar"
+hash = "2625398ddeb3ad6d9b16fd85f0f72f6a3bc4e58755966ff0085b8947c9bc6ad0"
+
+[[files]]
+file = "server_extras/mods/ProperProxyProtocol-1_21_1-neoforge-1.1.0.jar"
+hash = "8e0a66115dbfaaa3171150f039b48967c52c7c864d83a0a2a33d7dfd024fc339"
+
+[[files]]
+file = "server_extras/mods/SimpleDiscordLink-Universal-3.4.4.jar"
+hash = "6b098dad880b97bc1a10433e49e14076009a203c5cba72183ba505d85d9ce334"
