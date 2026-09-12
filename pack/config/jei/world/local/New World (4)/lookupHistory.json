@@ -1,4 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"minecraft:splash_potion","components":"{\"minecraft:potion_contents\":{potion:\"minecraft:long_night_vision\"}}"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]
